@@ -1,0 +1,7 @@
+{
+  "name": "WiseCrypto Trader",
+  "description": "A professional, mobile-first real-time crypto trading application featuring live market data, portfolio management, and bank-grade security.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
